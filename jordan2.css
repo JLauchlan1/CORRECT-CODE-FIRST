@@ -1,0 +1,40 @@
+  body {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+  }
+
+  header {
+    text-align: center;
+    background: url("https://scontent-lhr3-1.xx.fbcdn.net/hphotos-frc1/t31.0-8/1965548_10204521839546818_3744708488609519857_o.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    margin: -100px -20px 0 -20px;
+  }
+
+  a {
+      color: white;
+      padding-right: 20px;
+  }
+
+  h1 {
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    color: #996600;
+    text-shadow: 2px 2px 0px #261a0d;
+    margin-bottom: 100px;
+    padding-top: 50px;
+  }
+
+  h2 {
+    font-family: 'Oswald', sans-serif;
+    color: black; 
+    margin-bottom: 50px;
+  }
+
+
+  ul {
+    background: rgba(15, 50, 49, 0.54);
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
