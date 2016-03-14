@@ -17,6 +17,10 @@
       padding-right: 20px;
   }
 
+  a:hover {
+    background-color: #F5D0A9;
+}
+
   h1 {
     font-size: 100px;
     font-family: 'Oswald', sans-serif;
